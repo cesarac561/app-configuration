@@ -1,1 +1,2 @@
 dbVenta-cnx: server=localhost; database=dbVenta; integrated security=true; TrustServerCertificate=True
+url-base-servicio-stock: https://localhost:7065/
