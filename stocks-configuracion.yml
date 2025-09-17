@@ -1,1 +1,2 @@
 dbStocks-cnx: mongodb://127.0.0.1:27017/?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000
+url-kafka-server: 127.0.0.1:9092
