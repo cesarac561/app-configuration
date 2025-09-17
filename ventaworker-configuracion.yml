@@ -1,1 +1,2 @@
 url-base-servicio-ventas: https://localhost:7289
+url-kafka-server: 127.0.0.1:9092
