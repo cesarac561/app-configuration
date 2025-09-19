@@ -1,4 +1,4 @@
 dbVenta-cnx: server=localhost; database=dbVenta; integrated security=true; TrustServerCertificate=True
 url-base-servicio-stock: https://localhost:7065
-log-mongo-server-db: mongodb://localhost:27017/dblog
+log-mongo-server-db: mongodb://localhost:27017/dbLogs
 log-mongo-db-collection: logs-ventas
